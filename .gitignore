@@ -1,0 +1,6 @@
+.idea
+.git
+tests/test_lib
+.DS_Store
+**/.DS_Store
+**/.sass-cache
