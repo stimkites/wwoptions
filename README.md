@@ -156,4 +156,4 @@ For example on initialization and usage - see 'init-example.php' in this repo.
 ### Version info
 
 - 1.0 
-  - Initial (2022-01-18, Stim). Tested with nShift Unifaun refactored plugin. Original [task](https://www.wrike.com/open.htm?id=819026646)
+  - Initial (2022-01-18, Stim). Tested with nShift Unifaun refactored plugin.
